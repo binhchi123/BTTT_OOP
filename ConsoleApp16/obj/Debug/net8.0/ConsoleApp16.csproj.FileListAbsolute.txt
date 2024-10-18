@@ -1,0 +1,14 @@
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.exe
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.deps.json
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.runtimeconfig.json
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.dll
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.pdb
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.AssemblyInfoInputs.cache
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.AssemblyInfo.cs
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.dll
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\refint\ConsoleApp16.dll
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.pdb
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.genruntimeconfig.cache
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp16\obj\Debug\net8.0\ref\ConsoleApp16.dll

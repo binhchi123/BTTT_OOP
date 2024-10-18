@@ -1,0 +1,14 @@
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+D:\ASP .NET Core\OOP\ConsoleApp1\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
